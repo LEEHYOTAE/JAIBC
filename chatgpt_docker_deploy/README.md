@@ -1,3 +1,9 @@
-pip install -r requirements.txt
+#local run step
 
-streamlit run app.py
+##pip install -r requirements.txt
+
+##streamlit run app.py
+
+#docker image
+
+##leehyotae/hyotae
