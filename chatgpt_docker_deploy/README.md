@@ -1,9 +1,9 @@
-#local run step
+# local run step
 
-##pip install -r requirements.txt
+## pip install -r requirements.txt
 
-##streamlit run app.py
+## streamlit run app.py
 
-#docker image
+# docker image
 
-##leehyotae/hyotae
+## leehyotae/hyotae
