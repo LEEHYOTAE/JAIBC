@@ -2,7 +2,7 @@
 
 ### 1. pip install -r requirements.txt
 
-### 2. streamlit run penguins.py
+### 2. streamlit run penguins_streamlit.py
 
 # streamlit cloud url
 
